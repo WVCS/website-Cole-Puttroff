@@ -1,3 +1,20 @@
-body {
-
+ul{
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
 }
+li{
+  float: left;
+}
+li a{
+  padding: 50px;
+  color: black;
+  font-family: "Monaco" , Monospace;
+  border: solid;
+  border-color: black;
+}
+li a:hover {
+  background-color: #3C5233;
+  color: yellow;
+}
+
