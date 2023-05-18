@@ -26,9 +26,16 @@ h1{
 }
 img{
   height:500px;
-  
 }
 p{
   font-size:75px;
   color: white;
 }
+p1{
+  font-size: 25px;
+  color: white;
+}
+iframe{
+  float: left
+}
+
