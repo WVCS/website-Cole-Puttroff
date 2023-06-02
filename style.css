@@ -25,6 +25,11 @@ h1{
   font-size: 100px;
   text-decoration-line: underline;
 }
+h2{
+  color: white;
+  font-size: 50px;
+  text-decoration-line: underline;
+}
 img{
   height:400px;
 }
