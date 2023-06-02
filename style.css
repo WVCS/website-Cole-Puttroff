@@ -35,10 +35,14 @@ h2{
   text-decoration-line: underline;
 }
 h3{
-
+  color: white;
+  font-size: 50px;
+  text-decoration-line: underline;
 }
 h4{
-
+  color: white;
+  font-size: 50px;
+  text-decoration-line: underline;
 }
 p{
   font-size:50px;
