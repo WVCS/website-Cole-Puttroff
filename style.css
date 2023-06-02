@@ -20,11 +20,6 @@ li a:hover {
 body{
   background-color: #374A67;
 }
-h1{
-  color: white;
-  font-size: 100px;
-  text-decoration-line: underline;
-}
 img{
   height:400px;
   float: left;
@@ -33,17 +28,28 @@ p{
   font-size:50px;
   color: white;
 }
+h1{
+  color: white;
+  font-size: 100px;
+  text-decoration-line: underline;
+}
 p1{
   font-size: 25px;
   color: white;
-  postiton: relative;
-  left: 100px;
-}
-iframe{
-  float: left
 }
 h2{
   color: white;
   font-size: 50px;
   text-decoration-line: underline;
+}
+p2{
+  font-size: 25px;
+  color: white;
+}
+p3{
+  font-size: 25px;
+  color: white;
+}
+iframe{
+  float: left
 }
