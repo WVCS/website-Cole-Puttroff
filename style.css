@@ -23,18 +23,27 @@ body{
 h1{
   color: white;
   font-size: 100px;
+  text-decoration-line: underline;
 }
 img{
-  height:500px;
+  height:400px;
+  float: left;
 }
 p{
-  font-size:75px;
+  font-size:50px;
   color: white;
 }
 p1{
   font-size: 25px;
   color: white;
+  postiton: relative;
+  left: 100px;
 }
 iframe{
   float: left
+}
+h2{
+  color: white;
+  font-size: 50px;
+  text-decoration-line: underline;
 }
