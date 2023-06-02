@@ -24,23 +24,23 @@ img{
   height:400px;
   float: left;
 }
-p{
-  font-size:50px;
-  color: white;
-}
 h1{
   color: white;
   font-size: 100px;
   text-decoration-line: underline;
 }
-p1{
-  font-size: 25px;
-  color: white;
-}
 h2{
   color: white;
   font-size: 50px;
   text-decoration-line: underline;
+}
+p{
+  font-size:50px;
+  color: white;
+}
+p1{
+  font-size: 25px;
+  color: white;
 }
 p2{
   font-size: 25px;
@@ -48,6 +48,10 @@ p2{
 }
 p3{
   font-size: 25px;
+  color: white;
+}
+p4{
+  font-size:50px;
   color: white;
 }
 iframe{
