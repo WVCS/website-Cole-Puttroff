@@ -34,16 +34,6 @@ h2{
   font-size: 50px;
   text-decoration-line: underline;
 }
-h3{
-  color: white;
-  font-size: 50px;
-  text-decoration-line: underline;
-}
-h4{
-  color: white;
-  font-size: 50px;
-  text-decoration-line: underline;
-}
 p{
   font-size:50px;
   color: white;
@@ -52,18 +42,4 @@ p1{
   font-size: 25px;
   color: white;
 }
-p2{
-  font-size: 25px;
-  color: white;
-}
-p3{
-  font-size: 25px;
-  color: white;
-}
-p4{
-  font-size:50px;
-  color: white;
-}
-iframe{
-  float: left
-}
+
